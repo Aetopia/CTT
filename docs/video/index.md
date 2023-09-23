@@ -14,7 +14,7 @@ The most common, it is without (unlike other methods like RSMB) any smearing of 
 
 In general, the higher the input FPS, the smoother the final output would be, due to more blur frames making the blur look more seamless. Blur frames are how many frames are blended together, so `blur frames = input fps / output fps`.
 
-Video editors such as [Vegas Pro](/placeholder/) and [Adobe Premiere Pro](/placeholder/) have these features built-in. However, we recommend using seperate programs such as [blur](/placeholder/) first to pre-render the videos, therefore you don't have any lag in your video editor as well as having much more customisation.
+Video editors such as [Vegas Pro](https://www.vegascreativesoftware.com/au/vegas-pro/) and [Adobe Premiere Pro](https://www.adobe.com/au/products/premiere.html) have these features built-in. However, we recommend using seperate programs such as [blur](https://github.com/f0e/blur/releases) first to pre-render the videos, therefore you don't have any lag in your video editor as well as having much more customisation.
 
 ### :material-select-multiple: Interpolation
 

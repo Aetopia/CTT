@@ -22,6 +22,8 @@
 
 *[VBR]: Variable Bit Rate
 
+*[CQP]: Constant Quality
+
 *[NVENC]: NVIDIA's Video Encoder
 
 *[NVDEC]: NVIDIA's Video Decoder
