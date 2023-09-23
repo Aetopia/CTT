@@ -6,7 +6,7 @@ icon: material/racing-helmet
 # Halo Infinite
 
 <center>
-<img src="https://images.igdb.com/igdb/image/upload/t_original/ar88u.jpg"/>
+<img style="border-radius: 15px" src="https://images.igdb.com/igdb/image/upload/t_original/ar88u.jpg"/>
 </center>
 
 ## Information
@@ -32,7 +32,7 @@ The High Resolution Texture Packs ship with the game are know to cause stutterin
 3. Make sure the only thing that is select is the Campaign, if you own it.
 4. Finally hit <button>**[Apply]**</button> to apply the changes.
 
-![ingame-dlc](../assets/images/games/halo-infinite/ingame-dlc.png)
+ <img style="border-radius: 15px" src="../../assets/images/games/halo-infinite/ingame-dlc.png">
 
 ## Aggressive Dynamic Resolution Scaling
 
@@ -70,9 +70,9 @@ By setting the value to `960` FPS, dynamic resolution scaling becomes insanely a
     - Low Settings (Including Settings that may be turned off.)
 
     !!! image "No Minimum Framerate"
-        ![No-Min-FPS](../assets/images/games/halo-infinite/No-Min-FPS.PNG)
+        <img style="border-radius: 15px" src="../../assets/images/games/halo-infinite/No-Min-FPS.PNG">
     !!! image "Minimum Framerate"
-        ![Min-FPS](../assets/images/games/halo-infinite/Min-FPS.PNG)
+        <img style="border-radius: 15px" src="../../assets/images/games/halo-infinite/Min-FPS.PNG">
 
 ## Visual Quality Tweaks
 
@@ -154,10 +154,10 @@ An open source modification/patch for Halo Infinite that aims to fix and improve
     Allows Halo Infinite to run at any display mode that is supported by the primary monitor/display.
 
     !!! image "1024x768 with ZetaLoader along with Aggressive Dynamic Resolution Scaling."
-        ![1024x768](../assets/images/games/halo-infinite/1024x768-Min-FPS.PNG)
+        <img style="border-radius: 15px" src="../../assets/images/games/halo-infinite/1024x768-Min-FPS.PNG">
 
     !!! image "1024x768 with Visual Quality Tweaks and ZetaLoader along with Aggressive Dynamic Resolution Scaling."
-        ![1024x768Tweaks](../assets/images/games/halo-infinite/Image-Sharpening-Tweaks.PNG)
+        <img style="border-radius: 15px" src="../../assets/images/games/halo-infinite/Image-Sharpening-Tweaks.PNG">
 
     !!! warning
         Availing this feature, results in the following in game options being broken:
