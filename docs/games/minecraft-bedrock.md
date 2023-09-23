@@ -75,11 +75,5 @@ RenderDragon Version: 🔗 [Fog Remover Shader (RenderDragon)](https://www.media
 * Then from there, go into `Data/Renderer/materials` then place the binary files in there.
 
 
-### Using DX11 with RenderDragon
-
-Using DX11 Improves performance by upto 3x, to do this you need to add a [dll]() file in your game install directory
-
-🔗 [d3d12.dll](https://raw.githubusercontent.com/couleur-tweak-tips/CTT/main/docs/resources/games/minecraft-bedrock/d3d12.dll)
-
 **Credit**: The above was put together in the [CTT Discord](https://discord.gg/ctt) by Furzide.
 
