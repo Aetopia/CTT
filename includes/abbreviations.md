@@ -1,4 +1,4 @@
-*[open-source]: Something that is free in price with publically avaliable and modifiable code/internals.
+*[open-source]: Something that is usually free in price with publically avaliable and modifiable code/internals.
 
 *[RIFE]: An AI video interpolation that is slower, but generally more accurate
 
