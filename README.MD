@@ -13,7 +13,7 @@ To locally host the website do the following:<br>
 1. Install Python via your preferred method could be a package manager or installer.
     > [!NOTE]
     > If you are on Linux, make sure to install PIP.
-2. Run the following command in your terminal in the root directory of the repository:<br>
+2. Run the following command in your terminal in the root directory of the repository to install the required dependencies:<br>
     Windows:<br>
     ```
     python -m pip install -r requirements.txt  
