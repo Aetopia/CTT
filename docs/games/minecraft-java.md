@@ -1,3 +1,7 @@
+---
+description: Minecraft Java Edition
+icon: material/minecraft
+---
 ![logo](../assets/images/games/minecraft-java/logo.png)
 
 ## :fontawesome-solid-moon: **Clients**
