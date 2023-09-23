@@ -1,3 +1,8 @@
+---
+description: Halo Infinite
+icon: material/racing-helmet
+---
+
 # Halo Infinite
 
 <center>
@@ -8,18 +13,17 @@
 
 This article with cover on how to optimize Halo Infinite.
 
-!!! warning "Platform Specific Optimizations"
-    Halo Infinite is both available on:<br>
-    <ul>
-    <li>Steam</li>
-    <li>Microsoft Store</li>
-    </ul>
-    Because of this some optimizations might be either specific to the Steam or Microsoft Store version of the game.
+Halo Infinite is both available on:<br>
+
+- :simple-steam: Steam
+- :simple-microsoft: Microsoft Store
+
+Because of this some optimizations might be either specific to the Steam or Microsoft Store version of the game.
 
 ## Removal of High Resolution Texture Packs
 !!! info "Supported Platforms"
-    - [x] Steam
-    - [x] Microsoft Store
+    - [x] :simple-steam: Steam
+    - [x] :simple-microsoft: Microsoft Store
 
 The High Resolution Texture Packs ship with the game are know to cause stuttering & performance issues.
 
@@ -33,7 +37,7 @@ The High Resolution Texture Packs ship with the game are know to cause stutterin
 ## Aggressive Dynamic Resolution Scaling
 
 !!! info "Supported Platforms"
-    - [x] Steam
+    - [x] :simple-steam: Steam
     - [x] Microsoft Store
 
 !!! note
@@ -73,8 +77,8 @@ By setting the value to `960` FPS, dynamic resolution scaling becomes insanely a
 ## Visual Quality Tweaks
 
 !!! info "Supported Platforms"
-    - [x] Steam
-    - [x] Microsoft Store
+    - [x] :simple-steam: Steam
+    - [x] :simple-microsoft: Microsoft Store
 
 ### :simple-nvidia: NVIDIA
 If you are having an NVIDIA GPU, you may avail the following techonlogies to improve visual quality:<br>
@@ -134,8 +138,8 @@ Modifications maybe used to either fix or improve certain technical aspects of t
 ### [ZetaLoader](https://github.com/Aetopia/Zetaloader)
 
 !!! info "Supported Platforms"
-    - [x] Steam
-    - [ ] Microsoft Store
+    - [x] :simple-steam: Steam
+    - [ ] :simple-microsoft: Microsoft Store
 
 #### Features
 
@@ -230,8 +234,8 @@ Depending on what platform, you are playing from, you may opt in for using the l
 
 ##### Local
 !!! info "Supported Platforms"
-    - [x] Steam
-    - [ ] Microsoft Store
+    - [x] :simple-steam: Steam
+    - [ ] :simple-microsoft: Microsoft Store
 1. Download the latest from [here](https://github.com/SpecialKO/SpecialK/releases/latest).
 2. Unzip the `.7z` archive file.
 3. Rename `SpecialK64.dll` to `dxgi.dll`
@@ -244,6 +248,10 @@ Depending on what platform, you are playing from, you may opt in for using the l
         - Campaign: `"<Installation Directory>\subgames\CampaignS1"`
 
 ##### Global
+!!! info "Supported Platforms"
+    - [x] :simple-steam: Steam
+    - [x] :simple-microsoft: Microsoft Store
+
 1. Download [SKIF](https://sk-data.special-k.info/SpecialK.exe").
 2. Once installed launch Halo Infinite through SKIF and Special-K should load.
 

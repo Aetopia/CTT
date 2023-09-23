@@ -1,3 +1,7 @@
+---
+description: Minecraft Java Edition
+icon: material/minecraft
+---
 ![logo](../assets/images/games/minecraft-java/logo.png)
 
 **Clients** - Optimising Minecraft is relatively simple; you should start by downloading a client. A reputable and widely known client for Minecraft is [*Lunar Client*](<https://www.lunarclient.com/download>). However, if you aim only to PVP and play on versions 1.8.9 and 1.7.10, then you could look into [*CheatBreaker*](<https://cheatbreaker.net/>), a client owned and maintained by one of the [*CTT*](https://discord.gg/ctt) managers, Tellinq.
